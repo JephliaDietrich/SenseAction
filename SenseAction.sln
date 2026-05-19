@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenseAction", "SenseAction.csproj", "{8513153F-D8A7-4C17-952A-DC0FD76BACF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8513153F-D8A7-4C17-952A-DC0FD76BACF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8513153F-D8A7-4C17-952A-DC0FD76BACF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8513153F-D8A7-4C17-952A-DC0FD76BACF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8513153F-D8A7-4C17-952A-DC0FD76BACF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B581503-12D0-4E9E-8E5E-A616CD0226E3}
+	EndGlobalSection
+EndGlobal
